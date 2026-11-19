@@ -1,0 +1,20 @@
+ git status                                                                                                      
+   git init                                                                                                        
+git commit -m "github"                                                                                          
+   git add .                                                                                                       
+   git status                                                                                                      
+   git --em cached testing.py                                                                                      
+  git rm --cached testing.py                                                                                      
+  1git status                                                                                                      
+  1git add .                                                                                                       
+  1git commit -m "github"                                                                                          
+  1git add .                                                                                                       
+  1git status 
+  history
+
+
+  31 dir                                                                                                             
+  32 git remote add origin https://github.com/Naikdivya/Devops_project.git                                           
+  33 remote remote -v                                                                                                
+  34 git remote -v                                                                                                   
+  35 git push origin master 
